@@ -1,0 +1,4 @@
+
+** (gedit:1816): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (gedit:1816): WARNING **: Could not load Gedit repository: Typelib file for namespace 'GtkSource', version '3.0' not found
